@@ -1,8 +1,8 @@
-👋 Hi, I’m @Sady Guzman  🇨🇱
-🌎 Spanish, English
-🌱 Languages: Python, Java, C, SQL, NoSQL
-📖 Degree: CS Undergraduate, Graduating in 2025
-📖 Certificates: Harvard CS50x.
+👋 Hi, I’m @Sady Guzman  🇨🇱 <br>
+🌎 Spanish, English <br>
+🌱 Languages: Python, Java, C, SQL, NoSQL <br>
+🎓 Degree: CS Undergraduate, Graduating in 2025 <br>
+📖 Certificates: Harvard CS50x. <br>
 
 <!--
 **Sady-Guzman/Sady-Guzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
